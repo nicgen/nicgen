@@ -11,9 +11,7 @@
     </td>
     <td>
       <!-- Second image: GitHub Streak -->
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=nicgen&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="400"/>
-      </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nicgen&theme=gruvbox&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
