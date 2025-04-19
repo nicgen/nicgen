@@ -11,7 +11,7 @@
     </td>
     <td>
       <!-- Second image: GitHub Streak -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nicgen&theme=gruvbox&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nicgen&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
